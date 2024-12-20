@@ -21,7 +21,7 @@ sites:
     #check: "tcp-ping"
   - name: google
     url: https://ipv6.google.com/
-    ipv6:true
+    ipv6: true
     check: "tcp-ping"
 
 status-website:
