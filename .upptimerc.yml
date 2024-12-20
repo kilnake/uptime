@@ -11,11 +11,11 @@ sites:
    # url: https://helloo.ooguy.com
     #ipv6: true
     #check: "tcp-ping"
-  - name: IPv4
+  - name: ipv4.icanhazip.com
     url: https://ipv4.icanhazip.com/
-  - name: CV
+  - name: CV - https://kilnake.pages.dev
     url: https://kilnake.pages.dev
-  - name: Blog
+  - name: Blog - https://kilnake.github.io
     url: https://kilnake.github.io
 
 status-website:
@@ -25,7 +25,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/kilnake/ravi/refs/heads/main/hindi-new.svg
   name: Ravi Kilnake's
-  introTitle: "Powered by **Upptime** and **Github**."
+  #introTitle: "Powered by **Upptime** and **Github**."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
