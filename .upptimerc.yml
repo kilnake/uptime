@@ -3,21 +3,21 @@ owner: kilnake # Your GitHub organization or username, where this repository liv
 repo: uptime # The name of this repository
 
 sites:
-  - name: Duckdns.org
-    url: https://pattagobi.duckdns.org
-  - name: IPv6Duckdns
-    url: https://pattagobi.duckdns.org
-    ipv6: true
-  - name: Dynu.com
-    url: https://helloo.ooguy.com
-  - name: IPv6Dynu
-    url: https://helloo.ooguy.com
-    ipv6: true
-  - name: IPv4
-    url: https://ipv4.icanhazip.com/
-  - name: IPv6
-    url: https://ipv6.icanhazip.com/
-    ipv6: true
+#  - name: Duckdns.org
+ #   url: https://pattagobi.duckdns.org
+  #- name: IPv6Duckdns
+   # url: https://pattagobi.duckdns.org
+    #ipv6: true
+  #- name: Dynu.com
+   #url: https://helloo.ooguy.com
+  #- name: IPv6Dynu
+   # url: https://helloo.ooguy.com
+    #ipv6: true
+  #- name: IPv4
+   # url: https://ipv4.icanhazip.com/
+  #- name: IPv6
+   # url: https://ipv6.icanhazip.com/
+    #ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
