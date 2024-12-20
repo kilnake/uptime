@@ -5,38 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pattagobi.duckdns.org.ico",
     "slug": "duckdns-org",
     "status": "down",
-    "uptime": "5.67%",
-    "uptimeDay": "5.67%",
-    "uptimeWeek": "5.67%",
-    "uptimeMonth": "5.67%",
-    "uptimeYear": "5.67%",
+    "uptime": "0.63%",
+    "uptimeDay": "0.63%",
+    "uptimeWeek": "0.63%",
+    "uptimeMonth": "0.63%",
+    "uptimeYear": "0.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-20": 4
-    }
-  },
-  {
-    "name": "IPv6Duckdns",
-    "url": "https://pattagobi.duckdns.org",
-    "icon": "https://icons.duckduckgo.com/ip3/pattagobi.duckdns.org.ico",
-    "slug": "i-pv6-duckdns",
-    "status": "down",
-    "uptime": "6.00%",
-    "uptimeDay": "6.00%",
-    "uptimeWeek": "6.00%",
-    "uptimeMonth": "6.00%",
-    "uptimeYear": "6.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-12-20": 4
+      "2024-12-20": 41
     }
   },
   {
@@ -45,38 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/helloo.ooguy.com.ico",
     "slug": "dynu-com",
     "status": "down",
-    "uptime": "6.38%",
-    "uptimeDay": "6.38%",
-    "uptimeWeek": "6.38%",
-    "uptimeMonth": "6.38%",
-    "uptimeYear": "6.38%",
+    "uptime": "0.65%",
+    "uptimeDay": "0.65%",
+    "uptimeWeek": "0.65%",
+    "uptimeMonth": "0.65%",
+    "uptimeYear": "0.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-20": 4
-    }
-  },
-  {
-    "name": "IPv6Dynu",
-    "url": "https://helloo.ooguy.com",
-    "icon": "https://icons.duckduckgo.com/ip3/helloo.ooguy.com.ico",
-    "slug": "i-pv6-dynu",
-    "status": "down",
-    "uptime": "6.88%",
-    "uptimeDay": "6.88%",
-    "uptimeWeek": "6.88%",
-    "uptimeMonth": "6.88%",
-    "uptimeYear": "6.88%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-12-20": 3
+      "2024-12-20": 40
     }
   },
   {
@@ -96,25 +56,5 @@
     "timeMonth": 63,
     "timeYear": 63,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "IPv6",
-    "url": "https://ipv6.icanhazip.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/ipv6.icanhazip.com.ico",
-    "slug": "i-pv6",
-    "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-12-20": 3
-    }
   }
 ]
