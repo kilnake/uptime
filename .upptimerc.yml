@@ -17,8 +17,8 @@ sites:
     url: https://ipv4.icanhazip.com/
   - name: IPv6
     url: https://ipv6.icanhazip.com/
-    ipv6: true
-    check: "tcp-ping"
+    #ipv6: true
+    #check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
