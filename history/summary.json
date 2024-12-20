@@ -1,45 +1,5 @@
 [
   {
-    "name": "Duckdns.org",
-    "url": "https://pattagobi.duckdns.org",
-    "icon": "https://icons.duckduckgo.com/ip3/pattagobi.duckdns.org.ico",
-    "slug": "duckdns-org",
-    "status": "down",
-    "uptime": "0.63%",
-    "uptimeDay": "0.63%",
-    "uptimeWeek": "0.63%",
-    "uptimeMonth": "0.63%",
-    "uptimeYear": "0.63%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-12-20": 41
-    }
-  },
-  {
-    "name": "Dynu.com",
-    "url": "https://helloo.ooguy.com",
-    "icon": "https://icons.duckduckgo.com/ip3/helloo.ooguy.com.ico",
-    "slug": "dynu-com",
-    "status": "down",
-    "uptime": "0.65%",
-    "uptimeDay": "0.65%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-12-20": 40
-    }
-  },
-  {
     "name": "IPv4",
     "url": "https://ipv4.icanhazip.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ipv4.icanhazip.com.ico",
@@ -50,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 63,
-    "timeDay": 63,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
+    "time": 62,
+    "timeDay": 62,
+    "timeWeek": 62,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {}
   }
 ]
